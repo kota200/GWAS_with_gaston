@@ -15,6 +15,11 @@ Input file:
 
 ・A phtnotype file with the tsv file format
 
+Example
+
+```
+Rscript GWAS_gaston.R VCF_file Phenotypic_file p-value_cutoff(value) outputfile_prefix
+```
 
 Output file:
 
