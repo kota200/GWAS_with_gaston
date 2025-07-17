@@ -1,0 +1,21 @@
+##fileformat=VCFv4.3
+##FILTER=<ID=PASS,Description="All filters passed">
+##source=PLINKv2.00
+##filedate=20241218
+##INFO=<ID=AF,Number=A,Type=Float,Description="Estimated ALT Allele Frequencies">
+##INFO=<ID=DR2,Number=A,Type=Float,Description="Dosage R-Squared: estimated squared correlation between estimated REF dose [P(RA) + 2*P(RR)] and true REF dose">
+##INFO=<ID=IMP,Number=0,Type=Flag,Description="Imputed marker">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the variant described in this record  (for use with symbolic alleles)">
+##contig=<ID=1>
+##contig=<ID=2>
+##contig=<ID=3>
+##contig=<ID=4>
+##contig=<ID=5>
+##contig=<ID=6>
+##contig=<ID=7>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##bcftools_viewVersion=1.17-43-g875c067b+htslib-1.17-28-ge13611a
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO    FORMAT  B00333  B00555  B00666  B01444
+1       76103   1:76103,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|1     0|0     1|1         0|0     
+1       76152   1:76152,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     0|0     0|0         1|0    
+1       76285   1:76285,G,T     G       T       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     1|1     0|0         1|1
