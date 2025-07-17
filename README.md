@@ -1,4 +1,4 @@
-# An Rscript to perform a gaston (https://cran.r-project.org/web/packages/gaston/gaston.pdf)
+# An Rscript to perform a GWAS with gaston (https://cran.r-project.org/web/packages/gaston/gaston.pdf)
 An Rscript and shell scripts to perform a genome-wide association study (GWAS). The threshold was set with the method developed by Li and Ji (2005).
 
 
