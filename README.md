@@ -11,9 +11,9 @@ Prerequisites:
 
 Input file:
 
-・A genotype file with the VCF file format
+・A genotypic file with the VCF file format
 
-・A phtnotype file with the tsv file format
+・A phtnotypic file with the tsv file format
 
 Example
 
