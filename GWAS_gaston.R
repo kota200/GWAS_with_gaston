@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-#gwas will be performed using a linear mixed model
+#A GWAS will be performed using a linear mixed model.
 #arg1：VCF file, arg2: phenotypic file, arg3：p-value cutoff, arg4：output file prefix
 
 args <- commandArgs(trailingOnly = TRUE)
