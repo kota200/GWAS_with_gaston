@@ -17,6 +17,7 @@ Prerequisites:
 
 
 
+
 Input file:
 
 ・A genotype file with the VCF file format
