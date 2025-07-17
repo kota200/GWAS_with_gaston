@@ -33,8 +33,8 @@ Output file:
 
 
 To get the threshold value:
-You can set the threshold value using the method in Li and Ji (2005).
-Please use the thresh_calc.sh command.
+You can set the threshold value using the method in Li and Ji (2005)(https://www.nature.com/articles/6800717).
+Please use the thresh_calc.sh command (the following link was refferred: http://morotalab.org/apsc5984-2020/day35/day35.html#li-and-ji-2005).
 
 Prerequisites
 
@@ -42,4 +42,4 @@ Prerequisites
 
 ・bcftools (https://samtools.github.io/bcftools/bcftools.html)
 
-.poolr
+・poolr（https://cran.r-project.org/web/packages/poolr/index.html）
