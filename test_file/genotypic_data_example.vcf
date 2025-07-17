@@ -15,7 +15,7 @@
 ##contig=<ID=7>
 ##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
 ##bcftools_viewVersion=1.17-43-g875c067b+htslib-1.17-28-ge13611a
-#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO    FORMAT  B00333  B00555  B00666  B01444
-1       76103   1:76103,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|1     0|0     1|1         0|0     
-1       76152   1:76152,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     0|0     0|0         1|0    
-1       76285   1:76285,G,T     G       T       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     1|1     0|0         1|1
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO    FORMAT  033R  055R  066R
+1       76103   1:76103,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|1     0|0     1|1
+1       76152   1:76152,A,G     A       G       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     0|0     0|0   
+1       76285   1:76285,G,T     G       T       .       PASS    IMP;DR2=0.74;AF=0.0905  GT      0|0     1|1     0|0
