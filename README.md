@@ -28,5 +28,5 @@ Output file:
 
 ・Manhattan plot
 
-・
+・GWAS result files (about SNPs whose p-values are less than 0.01)
 
