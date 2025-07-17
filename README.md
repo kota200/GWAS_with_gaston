@@ -1,6 +1,9 @@
 # An Rscript to perform a GWAS with gaston (https://cran.r-project.org/web/packages/gaston)
 An Rscript and shell scripts to perform a genome-wide association study (GWAS). 
 
+![Uploading BR_PM_Tift_imputed_20250416_anthocyanin_level_in_shoot_basal_part_gaston_lmm_wo_pca.png…]()
+
+
 Prerequisites:
 
 ・gaston (https://cran.r-project.org/web/packages/gaston/gaston.pdf)
