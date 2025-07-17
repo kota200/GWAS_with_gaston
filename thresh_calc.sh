@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#argument 1 is the vcf file (.vcf.gz or .vcf)
+#argument 1 is the vcf file (.vcf.gz or .vcf; a non-missing and phased file is required.)
 #argument 2 is the prefix of output file name
 #arugumet 3 is the number of chromosome
 
