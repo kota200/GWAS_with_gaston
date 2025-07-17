@@ -3,9 +3,13 @@ An Rscript and shell scripts to perform a genome-wide association study (GWAS). 
 
 Prerequisites:
 ・plink2 
+
 ・bcftools
+
 ・gaston
+
 ・poolr
+
 ・vcfR
 
 Input file:
